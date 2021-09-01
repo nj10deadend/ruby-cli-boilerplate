@@ -16,7 +16,7 @@ def start_cli
 
   def handle_user_choice
     input = gets.chomp
-    binding.pry
+    
     # add conditional logic for what to do when a user types a certain input
   end
 
